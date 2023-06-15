@@ -7,10 +7,6 @@
     "404": {
       "redirect": "/errorpage403.html",
       "statusCode": 404
-    },
-    "502": {
-      "redirect": "/errorpage502.html",
-      "statusCode": 502
     }
   }
 }
