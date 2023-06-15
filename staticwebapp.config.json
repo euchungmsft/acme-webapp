@@ -1,0 +1,16 @@
+{
+  "responseOverrides": {
+    "403": {
+      "rewrite": "errorpage403.html",
+      "statusCode": 403
+    },
+    "404": {
+      "rewrite": "errorpage403.html",
+      "statusCode": 404
+    },
+    "502": {
+      "rewrite": "errorpage502.html",
+      "statusCode": 502
+    }
+  }
+}
